@@ -1,0 +1,19 @@
+{
+  "name": "minecrust-pathfinder",
+  "version": "0.0.1",
+  "description": "A speedy A* JPS raycast reliant pathfinding implementation for mineflayer using the Rust FFI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/firejoust/minecrust-pathfinder.git"
+  },
+  "author": "firejoust",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/firejoust/minecrust-pathfinder/issues"
+  },
+  "homepage": "https://github.com/firejoust/minecrust-pathfinder#readme"
+}
