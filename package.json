@@ -1,7 +1,7 @@
 {
   "name": "minecrust-pathfinder",
   "version": "0.0.1",
-  "description": "A speedy A* JPS raycast reliant pathfinding implementation for mineflayer using the Rust FFI",
+  "description": "Overkill A* JPS pathfinder for mineflayer using the Rust FFI",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
