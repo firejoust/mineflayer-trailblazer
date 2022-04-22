@@ -1,0 +1,10 @@
+[package]
+name = "trailblazer"
+version = "0.0.1"
+edition = "2021"
+
+#[lib]
+#name = "trailblazer"
+#crate-type = ["dylib"]
+
+[dependencies]
