@@ -1,3 +1,4 @@
+use crate::block::Block;
 struct ChunkSection {
     palette: Vec<u32>,
     data: [u32; 512],
@@ -12,4 +13,9 @@ struct ChunkColumn {
     chunk_x: i32,
     chunk_y: i32,
     sections: Vec<ChunkSection>
+}
+
+struct ChunkGrid {
+    position: [i32; 3],
+    blocks: [[[Block; 16]; 16]; 16]
 }

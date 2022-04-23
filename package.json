@@ -1,7 +1,7 @@
 {
   "name": "mineflayer-trailblazer",
   "version": "0.0.1",
-  "description": "Highly configurable and performant pathfinding implementation for mineflayer",
+  "description": "Highly configurable pathfinding implementation for mineflayer",
   "main": "index.js",
   "scripts": {},
   "repository": {
@@ -15,6 +15,7 @@
   },
   "homepage": "https://github.com/firejoust/mineflayer-trailblazer#readme",
   "dependencies": {
-    "ffi-napi": "^4.0.3"
+    "ffi-napi": "^4.0.3",
+    "node-gyp": "^9.0.0"
   }
 }
