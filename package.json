@@ -1,9 +1,14 @@
 {
   "name": "mineflayer-trailblazer",
   "version": "0.0.1",
-  "description": "Highly configurable pathfinding implementation for mineflayer",
+  "description": "Speedy & configurable pathfinding implementation for mineflayer",
   "main": "index.js",
-  "scripts": {},
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/firejoust/mineflayer-trailblazer.git"
@@ -15,7 +20,7 @@
   },
   "homepage": "https://github.com/firejoust/mineflayer-trailblazer#readme",
   "dependencies": {
-    "ffi-napi": "^4.0.3",
-    "node-gyp": "^9.0.0"
+    "prismarine-chunk": "^1.31.0",
+    "uint4": "^0.1.2"
   }
 }
