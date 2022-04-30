@@ -9,7 +9,7 @@ struct BitArray {
 
 struct ChunkSection {
     data: BitArray,
-    palette: Option<BitArray>,
+    palette: Option<Vec<u32>>,
 }
 
 struct ChunkColumn {

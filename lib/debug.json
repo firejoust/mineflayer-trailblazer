@@ -1,0 +1,4 @@
+{
+    "invalid_buffer": "Buffer is not valid. Must be an array of Columns.",
+    "invalid_goal": "Goal is not valid. Must be a Vec3 object."
+}
