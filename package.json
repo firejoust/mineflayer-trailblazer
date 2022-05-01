@@ -1,7 +1,7 @@
 {
   "name": "mineflayer-trailblazer",
   "version": "0.0.1",
-  "description": "Speedy & configurable pathfinding implementation for mineflayer",
+  "description": "A Rust-based pathfinding implementation for mineflayer",
   "main": "index.js",
   "directories": {
     "lib": "lib"
