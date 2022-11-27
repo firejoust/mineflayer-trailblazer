@@ -1,3 +1,5 @@
+# Archived 27/11/22, succeeded by mineflayer-pathfinder-rs
+
 ```
 mineflayer-trailblazer - Pathfinding implementation for mineflayer using trailblazer API
 
